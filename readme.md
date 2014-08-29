@@ -1,10 +1,10 @@
 # time-enabled-map-template-js
 
-![App](http://esri.github.io/time-enabled-map-template-js/images/item.png)
+
 
 DESCRIPTION
 
-[Live Demo](http://esri.github.io/time-enabled-map-template-js/)
+** This is all from the original boilerplate template **
 
 * **Map:** Choose the web map used in your application.
 * **Title:** Customize the title of the application.
